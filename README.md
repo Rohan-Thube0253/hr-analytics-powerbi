@@ -103,17 +103,20 @@ Data files included in `/Data` folder:
 
 ## 📊 Dashboard Previews
 
-### 🟦 Executive Summary Dashboard
-![Executive Summary](./screenshots/Executive summary.png)
+### Dashboard Previews
 
-### 🟩 Hiring Trend Analysis
-![Hiring Trend Analysis](./screenshots/Hiring Trend Analysis.png)
+#### Executive Summary Dashboard
+![Executive Summary](./screenshots/Executive_summary.png)
 
-### 🟨 Recruitment Channel Analysis
-![Recruitment Channel Analysis](./screenshots/Recruitment Channel Analysis.png)
+#### Hiring Trend Analysis
+![Hiring Trend Analysis](./screenshots/Hiring_Trend_Analysis.png)
 
-### 🟥 Relocation & CTC Analysis
-![Relocation & CTC Analysis](./screenshots/Relocation & CTC Analysis.png)
+#### Recruitment Channel Analysis
+![Recruitment Channel Analysis](./screenshots/Recruitment_Channel_Analysis.png)
+
+#### Relocation & CTC Analysis
+![Relocation CTC Analysis](./screenshots/Relocation_CTC_Analysis.png)
+
 
 ---
 
@@ -161,4 +164,5 @@ This project showcases:
 For collaboration or inquiries:  
 **LinkedIn:** https://www.linkedin.com/in/rohan-thube-423403239/ 
 **Email:** thuberaj@gmail.com
+
 
