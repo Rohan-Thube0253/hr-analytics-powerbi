@@ -1,0 +1,7 @@
+# Windows
+Thumbs.db
+Desktop.ini
+
+# Power BI temp files
+*.pbix.tmp
+*.log
